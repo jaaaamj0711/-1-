@@ -10,6 +10,8 @@
 
 그 중 **파이썬 크롤링 1기**에 참여하여 공부하고자 합니다.
 
-### :white_check_mark:[크롤링 개념](https://github.com/jaaaamj0711/MGC-1/tree/main/crawling_concept)
+## :white_check_mark:[크롤링 개념](https://github.com/jaaaamj0711/MGC-1/tree/main/crawling_concept)
+
+## :white_check_mark:[크롤링 코드 연습](https://github.com/jaaaamj0711/MGC-1/tree/main/crawling_practice)
 
 코뮤니티 카페 링크 : https://cafe.naver.com/codeuniv/9866
