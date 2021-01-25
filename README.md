@@ -10,5 +10,6 @@
 
 그 중 **파이썬 크롤링 1기**에 참여하여 공부하고자 합니다.
 
+[크롤링 개념](https://github.com/jaaaamj0711/MGC-1/tree/main/crawling_concept)
 
 코뮤니티 카페 링크 : https://cafe.naver.com/codeuniv/9866
