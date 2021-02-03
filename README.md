@@ -15,3 +15,6 @@
 ## :white_check_mark:[크롤링 코드 연습](https://github.com/jaaaamj0711/MGC-1/tree/main/crawling_practice)
 
 코뮤니티 카페 링크 : https://cafe.naver.com/codeuniv/9866
+
+![image](https://user-images.githubusercontent.com/55734436/106745323-44aec800-6664-11eb-872e-2353d31a4aa0.png)
+
